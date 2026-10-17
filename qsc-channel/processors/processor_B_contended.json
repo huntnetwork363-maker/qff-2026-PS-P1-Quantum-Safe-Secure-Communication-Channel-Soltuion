@@ -1,0 +1,3 @@
+{ "name": "platform_B_contended", "description": "EXTRA experiment (D11): platform B plus one busy-loop neighbour pinned to the same core (real CPU-share contention)",
+  "cpu_affinity": [0], "rlimit_as_mb": 256, "docker": {"cpus": 0.25, "memory_mb": 64, "optional": true}, "contention": {"busy_workers": 1},
+  "iterations": 100, "warmup": 10, "seed": 42, "repeats": 3 }

@@ -1,0 +1,3 @@
+{ "name": "platform_A", "description": "Standard environment, no artificial limits",
+  "cpu_affinity": null, "rlimit_as_mb": null, "docker": null, "contention": null,
+  "iterations": 100, "warmup": 10, "seed": 42, "repeats": 3 }

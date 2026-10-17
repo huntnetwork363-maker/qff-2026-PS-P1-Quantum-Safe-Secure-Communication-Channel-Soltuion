@@ -1,0 +1,18 @@
+{
+ "bytes_hybrid": 5895.0,
+ "bytes_classic": 364.0,
+ "bytes_x": 16.195054945054945,
+ "bytes_hyb_vs_pq": 140.0,
+ "bytes_hyb_vs_pq_pct": 2.4326672458731537,
+ "hs_A_hybrid": 57.622514,
+ "hs_B_hybrid": 66.97766750000001,
+ "hs_A_classic": 0.6451375,
+ "tm_hybrid": 1194.779296875,
+ "rss_hs": 36.598,
+ "rss_bulk": 71.516,
+ "rss_base": 14.18359375,
+ "sign_ms": 40.465984,
+ "sv_hybrid_ms": 40.8139215,
+ "sv_pq_ms": 43.8453465,
+ "verify_ms": 8.903916
+}

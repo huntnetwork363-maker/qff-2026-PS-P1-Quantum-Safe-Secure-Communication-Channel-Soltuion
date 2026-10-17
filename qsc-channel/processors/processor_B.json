@@ -1,0 +1,3 @@
+{ "name": "platform_B", "description": "Constrained environment emulation: 1 core + 256 MB address-space cap (+ Docker cpus/mem if available)",
+  "cpu_affinity": [0], "rlimit_as_mb": 256, "docker": {"cpus": 0.25, "memory_mb": 64, "optional": true}, "contention": null,
+  "iterations": 100, "warmup": 10, "seed": 42, "repeats": 3 }
